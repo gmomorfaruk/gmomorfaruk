@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @gmomorfaruk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @gmomorfaruk
+About Me:
+I am a passionate student of Computer Science and Engineering (CSE) with a keen interest in Machine Learning and Cybersecurity.
+
+Interests:
+Exploring advanced algorithms and data-driven solutions in Machine Learning.
+Enhancing security measures in the digital world through Cybersecurity research.
+
+🌱 Currently Learning:
+1. Prior language Python website based and Machine Learning based.
+2. Basic to advance in Algorithm.
+     
+Open to Collaborate On:
+Machine Learning projects with a focus on real-world applications.
+Cybersecurity initiatives to strengthen digital safety and awareness.
+
+How to Reach Me:
+
+⚡ Fun Fact: I love combining my technical expertise with creative problem-solving to make impactful contributions!
 
 
 [![](https://visitcount.itsvg.in/api?id=gmomorfaruk&icon=10&color=13)](https://visitcount.itsvg.in)
